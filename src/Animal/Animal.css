@@ -1,0 +1,6 @@
+.animal {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  
+}
