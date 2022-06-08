@@ -14,10 +14,3 @@ export default function AnimalList({ animals }) {
 }
 
 
-{/* <div style={{
-        
-          position: 'absolute',
-          top: animal.top,
-          left: animal.left
-
-        }} */}
