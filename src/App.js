@@ -10,9 +10,9 @@ import { animals } from './data.js';
 function App() {
   return (
     <div className="App">
-      <Header name="Ale" />
+      <Header name="Ale's" />
       <Main animals={animals} />
-      <Footer />
+      <Footer email='alejagr1998@gmail.com'/>
     </div>
   );
 }
